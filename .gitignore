@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.log
+
+# Optional: Uncomment to ignore the original PUBLISHED folder
+PUBLISHED/
+
